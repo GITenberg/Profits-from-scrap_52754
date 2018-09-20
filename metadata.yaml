@@ -1,0 +1,25 @@
+_repo: Profits-from-scrap_52754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Bureau of Engineering, Chicago
+    alias: Engineering, American Bureau of
+    gutenberg_agent_id: '47029'
+    url: http://www.gutenberg.org/2009/agents/47029
+description: ''
+gutenberg_issued: '2016-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52754'
+  lccn: ca22000500
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lead'
+- !lcc 'QC'
+- !lcsh 'Storage batteries'
+- GITenberg
+title: Profits from scrap
+url: http://www.gutenberg.org/ebooks/52754
